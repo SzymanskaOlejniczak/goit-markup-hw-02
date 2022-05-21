@@ -1,11 +1,6 @@
 body {
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto';
     font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0,03em;
-    color: #2196f3;
 }
 .link:hover {
     color: #2196f3;
