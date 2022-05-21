@@ -5,6 +5,7 @@ body {
 .link:hover {
     color: #2196f3;
 }
-.button:hover {
-    color: #2196f3;
+.button:hover, .button:focus {
+    color: #f321a3;
+    cursor: pointer;
 }
