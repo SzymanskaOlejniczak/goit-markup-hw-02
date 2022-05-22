@@ -1,12 +1,61 @@
 body {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto';
     font-style: normal;
+    font-weight: 400;
     color: #212121;
 }
-.center {
+.text-logo {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    letter-spacing: 0,03em;
+}
+.text-heading {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1,36;
     text-align: center;
 }
-.link:hover, h3 {
+.text-heading2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,17;
+    text-align: center;
+    letter-spacing: 0,03em;
+}
+.text-figcaption {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,19;
+    letter-spacing: 0,03em;
+}
+.text-figcaption1 {
+    font-size: 16px;
+    line-height: 1,19;
+    letter-spacing: 0,03em;
+    color: #757575;
+}
+.text-post {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0,03em;
+    color: #212121;
+}
+.text-post1 {
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0,03em;
+    color: #757575;
+}
+footer .text-adres {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0,03em;
+}
+.link:hover{
     color: #2196f3;
 }
 .link {
@@ -41,7 +90,4 @@ body {
 }
 .align-lefts {
     text-align: left;
-}
-pre, #contacts, .figcaption {
-    color: #757575;
 }
