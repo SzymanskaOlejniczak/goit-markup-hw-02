@@ -39,3 +39,6 @@ body {
 .columns {
     column-count: 4;
 }
+pre {
+    color: #757575;
+}
