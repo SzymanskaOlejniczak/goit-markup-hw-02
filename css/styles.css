@@ -6,8 +6,11 @@ body {
 .center {
     text-align: center;
 }
-.link:hover {
+.link:hover, h3 {
     color: #2196f3;
+}
+.link {
+    text-decoration: none;
 }
 .button {
         background-color: #F5F4FA;
