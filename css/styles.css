@@ -2,6 +2,9 @@ body {
     font-family: 'Roboto';
     font-style: normal;
 }
+.center {
+    text-align: center;
+}
 .link:hover {
     color: #2196f3;
 }
@@ -29,6 +32,8 @@ body {
 .button1>.button {
     font-weight: 700;
     line-height: 1,87;
+    display: block;
+    margin: auto;
 }
 .columns {
     column-count: 4;
