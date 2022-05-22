@@ -39,8 +39,8 @@ body {
     display: block;
     margin: auto;
 }
-.columns {
-    column-count: 4;
+.align-lefts {
+    text-align: left;
 }
 pre, #contacts, .figcaption {
     color: #757575;
