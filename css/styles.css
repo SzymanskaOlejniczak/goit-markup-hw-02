@@ -39,6 +39,6 @@ body {
 .columns {
     column-count: 4;
 }
-pre {
+pre, #contacts {
     color: #757575;
 }
