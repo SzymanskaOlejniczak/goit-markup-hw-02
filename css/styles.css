@@ -10,3 +10,6 @@ body {
     color: white;
     cursor: pointer;
 }
+.columns {
+    column-count: 4;
+}
