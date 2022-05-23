@@ -61,11 +61,12 @@ body {
     letter-spacing: 0,03em;
     color: #757575;
 }
-footer .text-adres {
+.text-adres {
     font-style: normal;
     font-size: 14px;
     line-height: 1,71;
     letter-spacing: 0,03em;
+    text-decoration: none;
 }
 .link:hover{
     color: #2196f3;
