@@ -112,6 +112,9 @@ a {
         border-radius: 4px;
         line-height: 1.6;
 }
+.link:hover {
+    color:#2196f3;
+}
 .button:hover {
     background-color: #2196f3;
     color: white;
